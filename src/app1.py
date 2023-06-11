@@ -12,4 +12,4 @@ a = list(i for i in range(1, 200))
 print(a)
 
 if not a:
-    print('error')
+    print('error123213123')
