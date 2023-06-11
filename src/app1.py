@@ -11,3 +11,5 @@ a = list(i for i in range(1, 100))
 
 print(a)
 
+if not a:
+    print('error')
