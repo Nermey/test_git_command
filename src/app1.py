@@ -1,12 +1,12 @@
-print('hello мир!!!')
+print('1hello мир!!!')
 
-print('hello world')
+print('hello world1')
 
-print('1235765658')
+print('12357656523238')
 
-for i in range(1, 100):
+for i in range(1, 1001):
     a = i
 
-a = list(i for i in range(1, 200))
+a = list(i for i in range(1, 300))
 
 print(a)
