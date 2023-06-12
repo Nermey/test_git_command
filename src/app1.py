@@ -10,5 +10,4 @@ for i in range(1, 1001):
 
 a = list(i for i in range(1, 300))
 
-
 print('a2143')
